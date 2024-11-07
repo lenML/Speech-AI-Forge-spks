@@ -1,0 +1,17 @@
+{
+  "banner": "",
+  "description": "",
+  "announcement": "",
+  "files": [
+    {
+      "id": "9609c6a2d27b485fb0c8aec05a684579",
+      "name": "mona",
+      "desc": "mona",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "filename": "yuanshen/mona.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/mona.spkv1.json"
+    }
+  ]
+}
