@@ -10,6 +10,11 @@
       "gender": "female",
       "author": "",
       "version": "",
+      "created_date": 1730976254888,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
       "filename": "yuanshen/mona.spkv1.json",
       "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/mona.spkv1.json"
     }

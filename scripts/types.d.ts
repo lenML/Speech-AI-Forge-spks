@@ -26,6 +26,9 @@ export namespace SPK {
     gender: string;
     author: string;
     version: string;
+    created_date: number;
+    avatar: string;
+    tags: string[];
   };
 
   export type RecommendConfig = {
