@@ -17,6 +17,19 @@
       ],
       "filename": "yuanshen/mona.spkv1.json",
       "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/mona.spkv1.json"
+    },
+    {
+      "id": "1081e473e29e4d70bd1f001e14fbb962",
+      "name": "顶真a",
+      "desc": "粘合国~",
+      "gender": "male",
+      "author": "",
+      "version": "",
+      "created_date": 1730989510100,
+      "avatar": "",
+      "tags": [],
+      "filename": "顶真.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/顶真.spkv1.json"
     }
   ]
 }
