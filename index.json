@@ -4,19 +4,94 @@
   "announcement": "",
   "files": [
     {
-      "id": "9609c6a2d27b485fb0c8aec05a684579",
-      "name": "mona",
-      "desc": "mona",
+      "id": "0a623906fe234031b5bcdcccc4b405ee",
+      "name": "神里绫华",
+      "desc": "",
       "gender": "female",
       "author": "",
       "version": "",
-      "created_date": 1730976254888,
+      "created_date": 1731060952263,
       "avatar": "",
       "tags": [
         "原神"
       ],
-      "filename": "yuanshen/mona.spkv1.json",
-      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/mona.spkv1.json"
+      "filename": "yuanshen/ayaka.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/ayaka.spkv1.json"
+    },
+    {
+      "id": "ead63527c2f0491e96282b029d3b9807",
+      "name": "胡桃",
+      "desc": "",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "created_date": 1731060952263,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
+      "filename": "yuanshen/hutao.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/hutao.spkv1.json"
+    },
+    {
+      "id": "3272d0060cc540f3bf237a5e41edc5bd",
+      "name": "纳西妲",
+      "desc": "",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "created_date": 1731060952263,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
+      "filename": "yuanshen/nahida.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/nahida.spkv1.json"
+    },
+    {
+      "id": "4b12d9f99c5c495ba26b81512a4aa21d",
+      "name": "雷电将军",
+      "desc": "",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "created_date": 1731060952263,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
+      "filename": "yuanshen/raidenEi.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/raidenEi.spkv1.json"
+    },
+    {
+      "id": "d779f70f837342cf9edf1406f0fc8489",
+      "name": "申鹤",
+      "desc": "",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "created_date": 1731060952263,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
+      "filename": "yuanshen/shenhe.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/shenhe.spkv1.json"
+    },
+    {
+      "id": "7fb01d6e79434022b7fe67f47af659cb",
+      "name": "八重神子",
+      "desc": "",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "created_date": 1731060952263,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
+      "filename": "yuanshen/yaeMiko.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/yaeMiko.spkv1.json"
     },
     {
       "id": "1081e473e29e4d70bd1f001e14fbb962",
@@ -30,6 +105,21 @@
       "tags": [],
       "filename": "顶真.spkv1.json",
       "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/顶真.spkv1.json"
+    },
+    {
+      "id": "9609c6a2d27b485fb0c8aec05a684579",
+      "name": "mona",
+      "desc": "mona",
+      "gender": "female",
+      "author": "",
+      "version": "",
+      "created_date": 1730976254888,
+      "avatar": "",
+      "tags": [
+        "原神"
+      ],
+      "filename": "yuanshen/mona.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/yuanshen/mona.spkv1.json"
     }
   ]
 }

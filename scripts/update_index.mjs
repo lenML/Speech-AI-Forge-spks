@@ -30,7 +30,10 @@ function getAllFiles(dirPath, arrayOfFiles) {
 async function main() {
   const spk_dir = path.join(process.cwd(), "spks");
 
-  const files = getAllFiles(spk_dir).map((x) => read_spk_info(x));
+  let files = getAllFiles(spk_dir).map((x) => read_spk_info(x));
+
+  // files 根据 created_date 排序，新的在前
+  files = files.sort((a, b) => b.created_date - a.created_date);
 
   const index_info = JSON.parse(fs.readFileSync("./index_info.json", "utf8"));
   index_info.files = files;
