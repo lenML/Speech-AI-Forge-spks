@@ -4,6 +4,21 @@
   "announcement": "",
   "files": [
     {
+      "id": "8306d7b39cf44146bd848777ea4cabc2",
+      "name": "豆包",
+      "desc": "三个情绪: default / angry / happy",
+      "gender": "female",
+      "author": "lenml",
+      "version": "v1-3",
+      "created_date": 1742367140612,
+      "avatar": "",
+      "tags": [
+        "assistant"
+      ],
+      "filename": "assistants/doubao.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/assistants/doubao.spkv1.json"
+    },
+    {
       "id": "0a623906fe234031b5bcdcccc4b405ee",
       "name": "神里绫华",
       "desc": "",

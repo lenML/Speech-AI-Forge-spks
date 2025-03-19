@@ -11,5 +11,9 @@
 - scripts: 一些本库用的脚本
 - index.json: 入口，其中配置了所有公开音色，其中有 spk 基本信息和对应下载地址，由脚本生成，一般不手动修改
 
+# 如何更新
+1. 在 skps 文件夹下添加、删除、更新新spk
+2. 执行 `node ./scripts/update_index.mjs` 生成新 index.json 即可
+
 # LICENSE
 MIT
