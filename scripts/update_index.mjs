@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { read_spk_info } from "./loader.mjs";
+import { read_spk_info } from "./_loader.mjs";
 
 /**
  *
