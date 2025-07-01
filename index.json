@@ -4,6 +4,4553 @@
   "announcement": "",
   "files": [
     {
+      "id": "17a12d6810df4015b283f67de2e58340",
+      "name": "volc_贴心女友",
+      "desc": "volcano_tts: 贴心女友",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383395207,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/贴心女友.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_贴心女友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_贴心女友.spkv1.json"
+    },
+    {
+      "id": "c5df8db7cc484abcb412a8c74575a39e",
+      "name": "volc_Ethan",
+      "desc": "volcano_tts: Ethan",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383395019,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Ethan.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Ethan.spkv1.json"
+    },
+    {
+      "id": "7edf69ffa37f47208e44d4ec00ed08ce",
+      "name": "volc_猴哥",
+      "desc": "volcano_tts: 猴哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383394801,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/猴哥.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_猴哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_猴哥.spkv1.json"
+    },
+    {
+      "id": "03de01bbe02d4437a1199e4c2040e587",
+      "name": "volc_活泼男友",
+      "desc": "volcano_tts: 活泼男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383394613,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_活泼男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_活泼男友.spkv1.json"
+    },
+    {
+      "id": "90f691ffb7e14a14a6c60b0ca4458b92",
+      "name": "volc_Owen",
+      "desc": "volcano_tts: Owen",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383394267,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Owen.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Owen.spkv1.json"
+    },
+    {
+      "id": "03e0b814897948a38b36d6e44e8e30d3",
+      "name": "volc_开朗青年",
+      "desc": "volcano_tts: 开朗青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383394081,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_开朗青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_开朗青年.spkv1.json"
+    },
+    {
+      "id": "24c8919af09743d3aff4163e08c13b3e",
+      "name": "volc_贴心男友",
+      "desc": "volcano_tts: 贴心男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383393897,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/贴心男友.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_贴心男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_贴心男友.spkv1.json"
+    },
+    {
+      "id": "5661b61a856b41d4b1f6a4440c3e4945",
+      "name": "volc_Daisy",
+      "desc": "volcano_tts: Daisy",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383393715,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Daisy.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Daisy.spkv1.json"
+    },
+    {
+      "id": "f5379763163249d3ba644d731478d7f2",
+      "name": "volc_Big Boogie",
+      "desc": "volcano_tts: Big Boogie",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383393527,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Big Boogie.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Big Boogie.spkv1.json"
+    },
+    {
+      "id": "4c245a12d3334ebab7d86c445dd2609e",
+      "name": "volc_邻居阿姨",
+      "desc": "volcano_tts: 邻居阿姨",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383393330,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/邻居阿姨.png",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "中年"
+      ],
+      "filename": "volcengine/volc_邻居阿姨.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_邻居阿姨.spkv1.json"
+    },
+    {
+      "id": "7aed5262b8ab4f26a09d7796ba8c4d27",
+      "name": "volc_邻家女孩",
+      "desc": "volcano_tts: 邻家女孩",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383393135,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/邻家女孩.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_邻家女孩.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_邻家女孩.spkv1.json"
+    },
+    {
+      "id": "206bfad44537477dbef23a07107531d8",
+      "name": "volc_开朗姐姐",
+      "desc": "volcano_tts: 开朗姐姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383392930,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/开朗姐姐.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_开朗姐姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_开朗姐姐.spkv1.json"
+    },
+    {
+      "id": "4d0567e7c59f4487be5dac1b50064e9d",
+      "name": "volc_娇憨女王",
+      "desc": "volcano_tts: 娇憨女王",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383392748,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/娇憨女王.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_娇憨女王.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_娇憨女王.spkv1.json"
+    },
+    {
+      "id": "6320e48bb35d44f59965dcf5c6adf109",
+      "name": "volc_浩宇小哥",
+      "desc": "volcano_tts: 浩宇小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383392545,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/浩宇小哥.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_浩宇小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_浩宇小哥.spkv1.json"
+    },
+    {
+      "id": "fdfd6c7c111846f9903029a5ccd3fdb2",
+      "name": "volc_Cartoon Chef",
+      "desc": "volcano_tts: Cartoon Chef",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383392334,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "中年"
+      ],
+      "filename": "volcengine/volc_Cartoon Chef.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Cartoon Chef.spkv1.json"
+    },
+    {
+      "id": "76b2679eeb664670ab4a2cca4a17ca9d",
+      "name": "volc_元气少年",
+      "desc": "volcano_tts: 元气少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383392129,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_元气少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_元气少年.spkv1.json"
+    },
+    {
+      "id": "ffedf3b517b541fc901e5ea923dc62f3",
+      "name": "volc_Andrew",
+      "desc": "volcano_tts: Andrew",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383391945,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/和音.png",
+      "tags": [
+        "volcengine",
+        "Japanese",
+        "Spanish",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Andrew.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Andrew.spkv1.json"
+    },
+    {
+      "id": "a71f409d5b5e4da9ae51850a8c8e9126",
+      "name": "volc_湾湾小何",
+      "desc": "volcano_tts: 湾湾小何",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383391743,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/湾湾小何.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_湾湾小何.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_湾湾小何.spkv1.json"
+    },
+    {
+      "id": "c5ddaa61f2bd40ebb77f5093cf4175b7",
+      "name": "volc_憨厚敦实",
+      "desc": "volcano_tts: 憨厚敦实",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383391557,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/憨厚敦实.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_憨厚敦实.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_憨厚敦实.spkv1.json"
+    },
+    {
+      "id": "1530af23668146a59d6aa2891cd191c7",
+      "name": "volc_撒娇男生",
+      "desc": "volcano_tts: 撒娇男生",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383391355,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_撒娇男生.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_撒娇男生.spkv1.json"
+    },
+    {
+      "id": "bbc3765d0fbe4147a186e4563cdfce69",
+      "name": "volc_Luna",
+      "desc": "volcano_tts: Luna",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383391160,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Luna.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Luna.spkv1.json"
+    },
+    {
+      "id": "820e9fd6ded9423ca9d582301c8e82df",
+      "name": "volc_嚣张小哥",
+      "desc": "volcano_tts: 嚣张小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383390971,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_嚣张小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_嚣张小哥.spkv1.json"
+    },
+    {
+      "id": "663d07c794ec415492d09ee0d9cbf50c",
+      "name": "volc_神秘法师",
+      "desc": "volcano_tts: 神秘法师",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383390775,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/神秘法师.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_神秘法师.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_神秘法师.spkv1.json"
+    },
+    {
+      "id": "a19ca38fc6314dc7b4005b77a600ee55",
+      "name": "volc_Jackson",
+      "desc": "volcano_tts: Jackson",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383390585,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Jackson.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Jackson.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Jackson.spkv1.json"
+    },
+    {
+      "id": "73d8f221f8a7489e8327d5e9e8942354",
+      "name": "volc_机甲智能",
+      "desc": "volcano_tts: 机甲智能",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383390369,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_机甲智能.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_机甲智能.spkv1.json"
+    },
+    {
+      "id": "10df83aaebbb41968f7502b705c02507",
+      "name": "volc_Zayne",
+      "desc": "volcano_tts: Zayne",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383390177,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Zayne.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Zayne.spkv1.json"
+    },
+    {
+      "id": "73bc6072e0474b488f8b93810f003faf",
+      "name": "volc_温顺少年",
+      "desc": "volcano_tts: 温顺少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383389981,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温顺少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温顺少年.spkv1.json"
+    },
+    {
+      "id": "0ac3040ce7634678874ffb3bef701a45",
+      "name": "volc_Frosty Man",
+      "desc": "volcano_tts: Frosty Man",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383389792,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_Frosty Man.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Frosty Man.spkv1.json"
+    },
+    {
+      "id": "6f2242166ca343a79bc63d1828c30b7c",
+      "name": "volc_妩媚御姐",
+      "desc": "volcano_tts: 妩媚御姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383389606,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/妩媚御姐.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_妩媚御姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_妩媚御姐.spkv1.json"
+    },
+    {
+      "id": "e1f8fc62e74f407daf8740f70e1b2acc",
+      "name": "volc_Esmeralda",
+      "desc": "volcano_tts: Esmeralda",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383389422,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Esmeralda.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Esmeralda.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Esmeralda.spkv1.json"
+    },
+    {
+      "id": "f1b099401b1742e9acef7ee4c34ad0d1",
+      "name": "volc_孤傲公子",
+      "desc": "volcano_tts: 孤傲公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383389243,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_孤傲公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_孤傲公子.spkv1.json"
+    },
+    {
+      "id": "a04d64e3501c475f8a5866aee1f8ebe3",
+      "name": "volc_懒音绵宝",
+      "desc": "volcano_tts: 懒音绵宝",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383389066,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/懒音绵宝.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_懒音绵宝.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_懒音绵宝.spkv1.json"
+    },
+    {
+      "id": "1d7b38dd187746129078d3db134dd48e",
+      "name": "volc_病娇少年",
+      "desc": "volcano_tts: 病娇少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383388855,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病娇少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇少年.spkv1.json"
+    },
+    {
+      "id": "c17008c510a143c38581db41bff78eeb",
+      "name": "volc_Ava",
+      "desc": "volcano_tts: Ava",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383388664,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/萌丫头.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Ava.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Ava.spkv1.json"
+    },
+    {
+      "id": "470b16bac48d42d8895f7335a6ceb153",
+      "name": "volc_快乐小东",
+      "desc": "volcano_tts: 快乐小东",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383388458,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_快乐小东.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_快乐小东.spkv1.json"
+    },
+    {
+      "id": "6a26f74dbaa1459ca8e6bad4a0a5c2cc",
+      "name": "volc_幽默大爷",
+      "desc": "volcano_tts: 幽默大爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383388268,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/幽默大爷.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "老年"
+      ],
+      "filename": "volcengine/volc_幽默大爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_幽默大爷.spkv1.json"
+    },
+    {
+      "id": "ffe4e640486149d6a62602633297a84f",
+      "name": "volc_甜心小美",
+      "desc": "volcano_tts: 甜心小美",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383388082,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_甜心小美.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_甜心小美.spkv1.json"
+    },
+    {
+      "id": "9f4c56fdfb314996832fdd6d3bc6f7fd",
+      "name": "volc_意气少年",
+      "desc": "volcano_tts: 意气少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383387841,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_意气少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_意气少年.spkv1.json"
+    },
+    {
+      "id": "f24dcb058f5d47a4b029cbcaad8839c4",
+      "name": "volc_Lexy",
+      "desc": "volcano_tts: Lexy",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383387646,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/朱美.png",
+      "tags": [
+        "volcengine",
+        "Japanese",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Lexy.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Lexy.spkv1.json"
+    },
+    {
+      "id": "ae9a79dd5b4e400f9f84dab4e789c31e",
+      "name": "volc_阳光青年",
+      "desc": "volcano_tts: 阳光青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383387424,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/阳光青年.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_阳光青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_阳光青年.spkv1.json"
+    },
+    {
+      "id": "2280eea93ebc4553b27927acc559383c",
+      "name": "volc_活力青年",
+      "desc": "volcano_tts: 活力青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383387228,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_活力青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_活力青年.spkv1.json"
+    },
+    {
+      "id": "6385f78ce84e440982421f10a0cd2118",
+      "name": "volc_率真小伙",
+      "desc": "volcano_tts: 率真小伙",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383387042,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/率真小伙.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_率真小伙.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_率真小伙.spkv1.json"
+    },
+    {
+      "id": "3afe993e267045ccac436be72ab8ad6d",
+      "name": "volc_Skye",
+      "desc": "volcano_tts: Skye",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383386819,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Skye.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Skye.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Skye.spkv1.json"
+    },
+    {
+      "id": "6c89f26000de4aa98f54cfffc1570d2f",
+      "name": "volc_青涩青年",
+      "desc": "volcano_tts: 青涩青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383386609,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_青涩青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_青涩青年.spkv1.json"
+    },
+    {
+      "id": "29221a542787465fb04de1858b6d5487",
+      "name": "volc_幽默叔叔",
+      "desc": "volcano_tts: 幽默叔叔",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383386409,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/幽默叔叔.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_幽默叔叔.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_幽默叔叔.spkv1.json"
+    },
+    {
+      "id": "e8d516fe38d74a84bd4e9105402865d7",
+      "name": "volc_斯文青年",
+      "desc": "volcano_tts: 斯文青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383386208,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_斯文青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_斯文青年.spkv1.json"
+    },
+    {
+      "id": "e3fe2863b49944bc8821ce99c4f4a92c",
+      "name": "volc_Adam",
+      "desc": "volcano_tts: Adam",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383386007,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Adam.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Adam.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Adam.spkv1.json"
+    },
+    {
+      "id": "1f3cbdb6124645bc80805d477e65788f",
+      "name": "volc_懵懂青年",
+      "desc": "volcano_tts: 懵懂青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383385811,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_懵懂青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_懵懂青年.spkv1.json"
+    },
+    {
+      "id": "bf8373ccd4f64e8e8a33463af0973e5d",
+      "name": "volc_病娇白莲",
+      "desc": "volcano_tts: 病娇白莲",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383385624,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/病娇白莲.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病娇白莲.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇白莲.spkv1.json"
+    },
+    {
+      "id": "d88c030043e14f2984b0ca2cbb863a76",
+      "name": "volc_豫州子轩",
+      "desc": "volcano_tts: 豫州子轩",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383385412,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/豫州子轩.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_豫州子轩.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_豫州子轩.spkv1.json"
+    },
+    {
+      "id": "77b1c278189749889ef701a1391979f9",
+      "name": "volc_撒娇男友",
+      "desc": "volcano_tts: 撒娇男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383385227,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_撒娇男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_撒娇男友.spkv1.json"
+    },
+    {
+      "id": "c4e4203583f143fd9df744bfc821b393",
+      "name": "volc_娇弱萝莉",
+      "desc": "volcano_tts: 娇弱萝莉",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383385052,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/娇弱萝莉.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_娇弱萝莉.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_娇弱萝莉.spkv1.json"
+    },
+    {
+      "id": "a41b2ba8797d4351baa4e452ab02635a",
+      "name": "volc_魅力女友",
+      "desc": "volcano_tts: 魅力女友",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383384822,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/魅力女友.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_魅力女友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_魅力女友.spkv1.json"
+    },
+    {
+      "id": "6c11d5aadc5f4abdba8d77d13191291c",
+      "name": "volc_磁性解说男声",
+      "desc": "volcano_tts: 磁性解说男声",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383384613,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/磁性解说男声.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "中年"
+      ],
+      "filename": "volcengine/volc_磁性解说男声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_磁性解说男声.spkv1.json"
+    },
+    {
+      "id": "9500e176f9094fe88e2da113dad24890",
+      "name": "volc_调皮公主",
+      "desc": "volcano_tts: 调皮公主",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383384429,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/调皮公主.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_调皮公主.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_调皮公主.spkv1.json"
+    },
+    {
+      "id": "55898b3599674ad2a4a3d126c297b3d7",
+      "name": "volc_爽快思思",
+      "desc": "volcano_tts: 爽快思思",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383384222,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/爽快思思.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_爽快思思.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_爽快思思.spkv1.json"
+    },
+    {
+      "id": "ed443409fd774e1088017b58be1910ee",
+      "name": "volc_绿茶小哥",
+      "desc": "volcano_tts: 绿茶小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383384011,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/绿茶小哥.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_绿茶小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_绿茶小哥.spkv1.json"
+    },
+    {
+      "id": "1fcfa18489a543138bd9ebd30f685c2f",
+      "name": "volc_暖心体贴",
+      "desc": "volcano_tts: 暖心体贴",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383383814,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/暖心体贴.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_暖心体贴.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_暖心体贴.spkv1.json"
+    },
+    {
+      "id": "e3a9d8c00e0442069f94412d328ae16b",
+      "name": "volc_腹黑公子",
+      "desc": "volcano_tts: 腹黑公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383383603,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/腹黑公子.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_腹黑公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_腹黑公子.spkv1.json"
+    },
+    {
+      "id": "a37675cf2db04f89acc328b75f3a49ff",
+      "name": "volc_Sophia",
+      "desc": "volcano_tts: Sophia",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383383397,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Candy.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Sophia.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Sophia.spkv1.json"
+    },
+    {
+      "id": "0b38badd3e8f4a93a089ea4d7462b705",
+      "name": "volc_纯澈女生",
+      "desc": "volcano_tts: 纯澈女生",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383383222,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_纯澈女生.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_纯澈女生.spkv1.json"
+    },
+    {
+      "id": "3f258edb68f4403f8e9c65687da8f189",
+      "name": "volc_冷峻高智",
+      "desc": "volcano_tts: 冷峻高智",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383383028,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷峻高智.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷峻高智.spkv1.json"
+    },
+    {
+      "id": "690d629a9e9740fc8fb9fcb3a5c42e65",
+      "name": "volc_成熟总裁",
+      "desc": "volcano_tts: 成熟总裁",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383382812,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_成熟总裁.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_成熟总裁.spkv1.json"
+    },
+    {
+      "id": "20d8c6d641d944faae866e1b56a2a5d8",
+      "name": "volc_病娇男友",
+      "desc": "volcano_tts: 病娇男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383382611,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病娇男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇男友.spkv1.json"
+    },
+    {
+      "id": "6b007e8460014b08b9407ca085ff7814",
+      "name": "volc_清爽男大",
+      "desc": "volcano_tts: 清爽男大",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383382417,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/清爽男大.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_清爽男大.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_清爽男大.spkv1.json"
+    },
+    {
+      "id": "497109dfa0aa4b9692af4d943402f167",
+      "name": "volc_儒雅青年",
+      "desc": "volcano_tts: 儒雅青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383382202,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/儒雅青年.png",
+      "tags": [
+        "volcengine",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_儒雅青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_儒雅青年.spkv1.json"
+    },
+    {
+      "id": "6ef41373c88e44ed997221e5842529a6",
+      "name": "volc_Dryw",
+      "desc": "volcano_tts: Dryw",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383381996,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Dryw.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Dryw.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Dryw.spkv1.json"
+    },
+    {
+      "id": "5be3e0a50c7746fcaaddadde2b2c7169",
+      "name": "volc_儒雅总裁",
+      "desc": "volcano_tts: 儒雅总裁",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383381794,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_儒雅总裁.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_儒雅总裁.spkv1.json"
+    },
+    {
+      "id": "06567b9d138640428614b7c5cdde8788",
+      "name": "volc_固执病娇",
+      "desc": "volcano_tts: 固执病娇",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383381606,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/固执病娇.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_固执病娇.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_固执病娇.spkv1.json"
+    },
+    {
+      "id": "581fc3b046db4eb3bee2899432960ba7",
+      "name": "volc_元气甜妹",
+      "desc": "volcano_tts: 元气甜妹",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383381413,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_元气甜妹.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_元气甜妹.spkv1.json"
+    },
+    {
+      "id": "a2e048041fb749bead7f6f4416d23bbd",
+      "name": "volc_深沉总裁",
+      "desc": "volcano_tts: 深沉总裁",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383381205,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_深沉总裁.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_深沉总裁.spkv1.json"
+    },
+    {
+      "id": "cd73b3031a494a81aa72270b813b7b59",
+      "name": "volc_James",
+      "desc": "volcano_tts: James",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383381005,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Morgan.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_James.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_James.spkv1.json"
+    },
+    {
+      "id": "3f6547a6c1da44fea0ff0470eb1da604",
+      "name": "volc_咆哮小哥",
+      "desc": "volcano_tts: 咆哮小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383380826,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_咆哮小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_咆哮小哥.spkv1.json"
+    },
+    {
+      "id": "ff1d8a5b9f0848f89a5e40fee2fa0d8d",
+      "name": "volc_呆萌川妹",
+      "desc": "volcano_tts: 呆萌川妹",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383380633,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/呆萌川妹.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_呆萌川妹.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_呆萌川妹.spkv1.json"
+    },
+    {
+      "id": "fc3cdc2b029d43fdbf5723f344231704",
+      "name": "volc_清爽少年",
+      "desc": "volcano_tts: 清爽少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383380419,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_清爽少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_清爽少年.spkv1.json"
+    },
+    {
+      "id": "fac194d678734400b225b4bffacb1257",
+      "name": "volc_初恋女友",
+      "desc": "volcano_tts: 初恋女友",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383380240,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_初恋女友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_初恋女友.spkv1.json"
+    },
+    {
+      "id": "f605dbdc67704715a0d5b7716b15c4fa",
+      "name": "volc_反卷青年",
+      "desc": "volcano_tts: 反卷青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383380055,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/反卷青年.png",
+      "tags": [
+        "volcengine",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_反卷青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_反卷青年.spkv1.json"
+    },
+    {
+      "id": "e89ea500d2674ce5a3a95d5638f8c17e",
+      "name": "volc_撒娇学妹",
+      "desc": "volcano_tts: 撒娇学妹",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383379849,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/撒娇学妹.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_撒娇学妹.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_撒娇学妹.spkv1.json"
+    },
+    {
+      "id": "03a27c4617ac4315aeef7a5f857b97b4",
+      "name": "volc_Tina",
+      "desc": "volcano_tts: Tina",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383379653,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/少儿故事.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Tina.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Tina.spkv1.json"
+    },
+    {
+      "id": "4503c1d6d4a74fdf8c79c4d5d431a421",
+      "name": "volc_广告解说",
+      "desc": "volcano_tts: 广告解说",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383379456,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/广告解说.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "中年"
+      ],
+      "filename": "volcengine/volc_广告解说.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_广告解说.spkv1.json"
+    },
+    {
+      "id": "9da802514f264221bf7270db202a0205",
+      "name": "volc_悠悠君子",
+      "desc": "volcano_tts: 悠悠君子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383379266,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_悠悠君子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_悠悠君子.spkv1.json"
+    },
+    {
+      "id": "50dc73c0088b4c8391dd72fd6b8ad88e",
+      "name": "volc_仗剑侠客",
+      "desc": "volcano_tts: 仗剑侠客",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383379071,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_仗剑侠客.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_仗剑侠客.spkv1.json"
+    },
+    {
+      "id": "6376610b7dce435489227d9c449de919",
+      "name": "volc_Charlie",
+      "desc": "volcano_tts: Charlie",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383378895,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Charlie.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Charlie.spkv1.json"
+    },
+    {
+      "id": "000c8796c855497e988c4fba2369c6aa",
+      "name": "volc_Amanda",
+      "desc": "volcano_tts: Amanda",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383378713,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Amanda.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Amanda.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Amanda.spkv1.json"
+    },
+    {
+      "id": "fc223a2ce78e4a39bf866dcad5216f12",
+      "name": "volc_正直青年",
+      "desc": "volcano_tts: 正直青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383378527,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/正直青年.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_正直青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_正直青年.spkv1.json"
+    },
+    {
+      "id": "65f5737127fd4a9db776d90562108e0d",
+      "name": "volc_Emily",
+      "desc": "volcano_tts: Emily",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383378341,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Emily.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Emily.spkv1.json"
+    },
+    {
+      "id": "70ef733f24824f0c984dd88d4f1f2fac",
+      "name": "volc_傲气凌人",
+      "desc": "volcano_tts: 傲气凌人",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383378159,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/傲气凌人.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲气凌人.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲气凌人.spkv1.json"
+    },
+    {
+      "id": "2c4cf52f37334b0a88d712b8addf729d",
+      "name": "volc_高冷御姐",
+      "desc": "volcano_tts: 高冷御姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383377959,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/高冷御姐.png",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_高冷御姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_高冷御姐.spkv1.json"
+    },
+    {
+      "id": "039724a8dae94c179996f68e5b28abad",
+      "name": "volc_潇洒随性",
+      "desc": "volcano_tts: 潇洒随性",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383377772,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/潇洒随性.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_潇洒随性.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_潇洒随性.spkv1.json"
+    },
+    {
+      "id": "9285cc54c1f34443b747777042682154",
+      "name": "volc_儒雅君子",
+      "desc": "volcano_tts: 儒雅君子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383377588,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_儒雅君子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_儒雅君子.spkv1.json"
+    },
+    {
+      "id": "c2f4525c7c21483c82d4c83762220bbd",
+      "name": "volc_冷脸学霸",
+      "desc": "volcano_tts: 冷脸学霸",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383377384,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷脸学霸.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷脸学霸.spkv1.json"
+    },
+    {
+      "id": "d75b551b5eb3485b80a5779758da09f7",
+      "name": "volc_Brayan",
+      "desc": "volcano_tts: Brayan",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383377198,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Brayan.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_Brayan.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Brayan.spkv1.json"
+    },
+    {
+      "id": "9d65bb8df39449369f6b8451af32c917",
+      "name": "volc_活力小哥",
+      "desc": "volcano_tts: 活力小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383377005,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/活力小哥.png",
+      "tags": [
+        "volcengine",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_活力小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_活力小哥.spkv1.json"
+    },
+    {
+      "id": "1a69c56e382241f48f49b5a3b39e9b6e",
+      "name": "volc_冷脸兄长",
+      "desc": "volcano_tts: 冷脸兄长",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383376834,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷脸兄长.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷脸兄长.spkv1.json"
+    },
+    {
+      "id": "192e7a5760eb46309274cc245d305b73",
+      "name": "volc_冷峻上司",
+      "desc": "volcano_tts: 冷峻上司",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383376658,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/冷峻上司.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷峻上司.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷峻上司.spkv1.json"
+    },
+    {
+      "id": "090d546ab1104b54b5a9e4ff3d5289c0",
+      "name": "volc_Harmony",
+      "desc": "volcano_tts: Harmony",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383376450,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Harmony.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Harmony.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Harmony.spkv1.json"
+    },
+    {
+      "id": "47c90800bf824f2187b8e4dbff05388e",
+      "name": "volc_清澈梓梓",
+      "desc": "volcano_tts: 清澈梓梓",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383376254,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/清澈梓梓.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_清澈梓梓.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_清澈梓梓.spkv1.json"
+    },
+    {
+      "id": "5e194909c8d14c8ba1fb17607b8b8cc4",
+      "name": "volc_Chucky",
+      "desc": "volcano_tts: Chucky",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383376061,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Chucky.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Chucky.spkv1.json"
+    },
+    {
+      "id": "3b6f2cc4f1f64829b362a92aeb83e8bb",
+      "name": "volc_武则天",
+      "desc": "volcano_tts: 武则天",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383375847,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/武则天.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "中年"
+      ],
+      "filename": "volcengine/volc_武则天.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_武则天.spkv1.json"
+    },
+    {
+      "id": "4a0d5bf1005b4c80af1f42c0f75e6b0b",
+      "name": "volc_さとみ（智美）",
+      "desc": "volcano_tts: さとみ（智美）",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383375645,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_さとみ（智美）.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_さとみ（智美）.spkv1.json"
+    },
+    {
+      "id": "81972b4a52994912b62ad64b51264aad",
+      "name": "volc_温暖少年",
+      "desc": "volcano_tts: 温暖少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383375454,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "有声阅读",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_温暖少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温暖少年.spkv1.json"
+    },
+    {
+      "id": "0fa480032a8848b78316bdd59485f124",
+      "name": "volc_活泼爽朗",
+      "desc": "volcano_tts: 活泼爽朗",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383375279,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/活泼爽朗.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_活泼爽朗.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_活泼爽朗.spkv1.json"
+    },
+    {
+      "id": "e220715902474a9192490728aae4e716",
+      "name": "volc_Smith",
+      "desc": "volcano_tts: Smith",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383375079,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Smith.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Smith.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Smith.spkv1.json"
+    },
+    {
+      "id": "cd9df01d080846c89089ccef7591daac",
+      "name": "volc_小侯爷",
+      "desc": "volcano_tts: 小侯爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383374888,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_小侯爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_小侯爷.spkv1.json"
+    },
+    {
+      "id": "6bb8fd2a45b24d529adcd39ffc15ae21",
+      "name": "volc_病娇弟弟",
+      "desc": "volcano_tts: 病娇弟弟",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383374720,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/病娇弟弟.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病娇弟弟.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇弟弟.spkv1.json"
+    },
+    {
+      "id": "305cc697a5b64de7b633a86acc2c998f",
+      "name": "volc_不羁青年",
+      "desc": "volcano_tts: 不羁青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383374520,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_不羁青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_不羁青年.spkv1.json"
+    },
+    {
+      "id": "36250c606aaf4dcbb3caee024e1e63d0",
+      "name": "volc_傲慢青年",
+      "desc": "volcano_tts: 傲慢青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383374319,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲慢青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲慢青年.spkv1.json"
+    },
+    {
+      "id": "ecf44686a93d4b01b6f85c4eab89576e",
+      "name": "volc_顾姐",
+      "desc": "volcano_tts: 顾姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383374095,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/顾姐.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_顾姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_顾姐.spkv1.json"
+    },
+    {
+      "id": "c3dc09bdb3424c45999be47b235ab289",
+      "name": "volc_活泼女孩",
+      "desc": "volcano_tts: 活泼女孩",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383373896,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/活泼女孩.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_活泼女孩.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_活泼女孩.spkv1.json"
+    },
+    {
+      "id": "8d63994aef1e45979ab5127b0c27a81e",
+      "name": "volc_京腔侃爷",
+      "desc": "volcano_tts: 京腔侃爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383373702,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/京腔侃爷.png",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "中年"
+      ],
+      "filename": "volcengine/volc_京腔侃爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_京腔侃爷.spkv1.json"
+    },
+    {
+      "id": "3925acb55d8f4281a5cb093c85bc43ec",
+      "name": "volc_粘人男友",
+      "desc": "volcano_tts: 粘人男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383373499,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_粘人男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_粘人男友.spkv1.json"
+    },
+    {
+      "id": "15e3b0d0fb8d46b58c55712efbd94306",
+      "name": "volc_亮嗓萌仔",
+      "desc": "volcano_tts: 亮嗓萌仔",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383373313,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/亮嗓萌仔.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_亮嗓萌仔.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_亮嗓萌仔.spkv1.json"
+    },
+    {
+      "id": "e2e40f22b3af489797127d8af360694f",
+      "name": "volc_天才童声",
+      "desc": "volcano_tts: 天才童声",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383373106,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/天才童声.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_天才童声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_天才童声.spkv1.json"
+    },
+    {
+      "id": "376e026fb0fb4e96b6ac1f44b9043230",
+      "name": "volc_优柔公子",
+      "desc": "volcano_tts: 优柔公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383372919,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/优柔公子.png",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_优柔公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_优柔公子.spkv1.json"
+    },
+    {
+      "id": "d687e347815e42dbae2747fd6da7fe05",
+      "name": "volc_Mia",
+      "desc": "volcano_tts: Mia",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383372730,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/俏皮女声.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Mia.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Mia.spkv1.json"
+    },
+    {
+      "id": "522b337fe38e4bad82293f8731f9b000",
+      "name": "volc_病娇姐姐",
+      "desc": "volcano_tts: 病娇姐姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383372547,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/病娇姐姐.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病娇姐姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇姐姐.spkv1.json"
+    },
+    {
+      "id": "24efe5c6b2264675986b2b16cbfe8db3",
+      "name": "volc_油腻大叔",
+      "desc": "volcano_tts: 油腻大叔",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383372354,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_油腻大叔.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_油腻大叔.spkv1.json"
+    },
+    {
+      "id": "5d3a80df094440e09e199e1fdaefb07e",
+      "name": "volc_冷漠男友",
+      "desc": "volcano_tts: 冷漠男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383372148,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷漠男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷漠男友.spkv1.json"
+    },
+    {
+      "id": "b7019810a87e4687b5188499efe14e1f",
+      "name": "volc_悬疑解说",
+      "desc": "volcano_tts: 悬疑解说",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383371946,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/悬疑解说.png",
+      "tags": [
+        "volcengine",
+        "有声阅读",
+        "中年"
+      ],
+      "filename": "volcengine/volc_悬疑解说.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_悬疑解说.spkv1.json"
+    },
+    {
+      "id": "3801c65472444fef9893bad6486ff26b",
+      "name": "volc_优柔帮主",
+      "desc": "volcano_tts: 优柔帮主",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383371763,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/优柔帮主.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_优柔帮主.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_优柔帮主.spkv1.json"
+    },
+    {
+      "id": "6bd54de023414b1f8248274910b5a8e9",
+      "name": "volc_少年将军",
+      "desc": "volcano_tts: 少年将军",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383371574,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/少年将军.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_少年将军.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_少年将军.spkv1.json"
+    },
+    {
+      "id": "40210ec724154b3f8877d109275385de",
+      "name": "volc_霸道少爷",
+      "desc": "volcano_tts: 霸道少爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383371366,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_霸道少爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_霸道少爷.spkv1.json"
+    },
+    {
+      "id": "cd5075eff3a14b79ad91e519f9a3d427",
+      "name": "volc_知心姐姐",
+      "desc": "volcano_tts: 知心姐姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383371170,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_知心姐姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_知心姐姐.spkv1.json"
+    },
+    {
+      "id": "4f89fd92afd74fbf8eda8f04a5c2754f",
+      "name": "volc_Lucas",
+      "desc": "volcano_tts: Lucas",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383370970,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Lucas.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Lucas.spkv1.json"
+    },
+    {
+      "id": "99d2f400b6e6484c82417df75efc8cb2",
+      "name": "volc_低音沉郁",
+      "desc": "volcano_tts: 低音沉郁",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383370788,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_低音沉郁.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_低音沉郁.spkv1.json"
+    },
+    {
+      "id": "ac5daa9d4c7c4dbebd14bfc796b31dce",
+      "name": "volc_爽朗少年",
+      "desc": "volcano_tts: 爽朗少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383370595,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_爽朗少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_爽朗少年.spkv1.json"
+    },
+    {
+      "id": "9f78a4b49c6c4cdca2379fe33bbb33a5",
+      "name": "volc_Grace",
+      "desc": "volcano_tts: Grace",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383370392,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Hope.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Grace.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Grace.spkv1.json"
+    },
+    {
+      "id": "2cc5563f3e99466e8c53cf22306e55f1",
+      "name": "volc_婆婆",
+      "desc": "volcano_tts: 婆婆",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383370171,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/婆婆.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "老年"
+      ],
+      "filename": "volcengine/volc_婆婆.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_婆婆.spkv1.json"
+    },
+    {
+      "id": "e3ecd2211c6a469cb2555ab952bf3319",
+      "name": "volc_Daniel",
+      "desc": "volcano_tts: Daniel",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383369969,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Daniel.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Daniel.spkv1.json"
+    },
+    {
+      "id": "e13637b06890445e9d6a7e7e4e4d415d",
+      "name": "volc_Anna",
+      "desc": "volcano_tts: Anna",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383369739,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Anna.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Anna.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Anna.spkv1.json"
+    },
+    {
+      "id": "d0136d0be93643a7befce71ff21617f0",
+      "name": "volc_醋精男生",
+      "desc": "volcano_tts: 醋精男生",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383369548,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_醋精男生.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_醋精男生.spkv1.json"
+    },
+    {
+      "id": "fd011c036b5743feb771c2ea91034b34",
+      "name": "volc_傲娇公子",
+      "desc": "volcano_tts: 傲娇公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383369343,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲娇公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲娇公子.spkv1.json"
+    },
+    {
+      "id": "adf8274ad7cf4faaaf13c4c2c0b929c8",
+      "name": "volc_甜美桃子",
+      "desc": "volcano_tts: 甜美桃子",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383369120,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/甜美桃子.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_甜美桃子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_甜美桃子.spkv1.json"
+    },
+    {
+      "id": "a52fe78186ab4674905eb9acdb756850",
+      "name": "volc_儒雅才俊",
+      "desc": "volcano_tts: 儒雅才俊",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383368932,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/儒雅才俊.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_儒雅才俊.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_儒雅才俊.spkv1.json"
+    },
+    {
+      "id": "1d5b854a10a241c48d57c66d753c5c2e",
+      "name": "volc_温柔男友",
+      "desc": "volcano_tts: 温柔男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383368740,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温柔男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔男友.spkv1.json"
+    },
+    {
+      "id": "64494f022ace4526b832c7e5a6b5269e",
+      "name": "volc_仗剑君子",
+      "desc": "volcano_tts: 仗剑君子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383368534,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_仗剑君子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_仗剑君子.spkv1.json"
+    },
+    {
+      "id": "23442f4a061f42ca97fb48cd6e74d773",
+      "name": "volc_つき（月）",
+      "desc": "volcano_tts: つき（月）",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383368328,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_つき（月）.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_つき（月）.spkv1.json"
+    },
+    {
+      "id": "8733fd1d11164ed099e147e234d952ef",
+      "name": "volc_佩奇猪",
+      "desc": "volcano_tts: 佩奇猪",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383368133,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/佩奇猪.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_佩奇猪.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_佩奇猪.spkv1.json"
+    },
+    {
+      "id": "c2a6fc63de894bae9e3b12d691293f35",
+      "name": "volc_病娇萌妹",
+      "desc": "volcano_tts: 病娇萌妹",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383367955,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/病娇萌妹.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_病娇萌妹.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇萌妹.spkv1.json"
+    },
+    {
+      "id": "6461da20f5bc4e87bcc84a47afecc102",
+      "name": "volc_凌云青年",
+      "desc": "volcano_tts: 凌云青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383367766,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_凌云青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_凌云青年.spkv1.json"
+    },
+    {
+      "id": "c68874801ddf4749adca2165d182e813",
+      "name": "volc_俊朗男友",
+      "desc": "volcano_tts: 俊朗男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383367582,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_俊朗男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_俊朗男友.spkv1.json"
+    },
+    {
+      "id": "48c6ac096da24c0c8207619bb3cfb65b",
+      "name": "volc_机灵小伙",
+      "desc": "volcano_tts: 机灵小伙",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383367399,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_机灵小伙.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_机灵小伙.spkv1.json"
+    },
+    {
+      "id": "21a2f36c2f80402d911e02a8f65eac87",
+      "name": "volc_学霸男同桌",
+      "desc": "volcano_tts: 学霸男同桌",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383367221,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/学霸男同桌.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_学霸男同桌.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_学霸男同桌.spkv1.json"
+    },
+    {
+      "id": "ee257ad423f14eb8849e31cbbe6fef83",
+      "name": "volc_阳光阿辰",
+      "desc": "volcano_tts: 阳光阿辰",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383367040,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_阳光阿辰.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_阳光阿辰.spkv1.json"
+    },
+    {
+      "id": "7e74e4b5be40405a922a75d17e10ccb3",
+      "name": "volc_广州德哥",
+      "desc": "volcano_tts: 广州德哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383366863,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/广州德哥.png",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_广州德哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_广州德哥.spkv1.json"
+    },
+    {
+      "id": "7069aecd7fee48a0824abd4969eeb644",
+      "name": "volc_贴心妹妹",
+      "desc": "volcano_tts: 贴心妹妹",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383366682,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_贴心妹妹.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_贴心妹妹.spkv1.json"
+    },
+    {
+      "id": "1a289ed2755a4a78b0d19f52849c2908",
+      "name": "volc_儒雅公子",
+      "desc": "volcano_tts: 儒雅公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383366499,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "视频配音",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_儒雅公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_儒雅公子.spkv1.json"
+    },
+    {
+      "id": "de33a22ddacd4fd4a09dd90a0caef6ed",
+      "name": "volc_Xavier",
+      "desc": "volcano_tts: Xavier",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383366311,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Xavier.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Xavier.spkv1.json"
+    },
+    {
+      "id": "98c09f1e64414005b00ccf1acbbdd2cb",
+      "name": "volc_病娇哥哥",
+      "desc": "volcano_tts: 病娇哥哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383366132,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/病娇哥哥.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病娇哥哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病娇哥哥.spkv1.json"
+    },
+    {
+      "id": "825d5d02d5424fd4b0605039df7cee51",
+      "name": "volc_磁性男嗓",
+      "desc": "volcano_tts: 磁性男嗓",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383365940,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_磁性男嗓.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_磁性男嗓.spkv1.json"
+    },
+    {
+      "id": "9c719058eb87445c87399408553421e1",
+      "name": "volc_胡子叔叔",
+      "desc": "volcano_tts: 胡子叔叔",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383365756,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_胡子叔叔.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_胡子叔叔.spkv1.json"
+    },
+    {
+      "id": "10902f915c024e9c952a02643d24e50a",
+      "name": "volc_天才同桌",
+      "desc": "volcano_tts: 天才同桌",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383365561,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_天才同桌.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_天才同桌.spkv1.json"
+    },
+    {
+      "id": "521f6382346146d28ced95e695d2f6a8",
+      "name": "volc_双节棍小哥",
+      "desc": "volcano_tts: 双节棍小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383365372,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_双节棍小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_双节棍小哥.spkv1.json"
+    },
+    {
+      "id": "880de9a3193047eebb18ce4aa67eff4a",
+      "name": "volc_精英青年",
+      "desc": "volcano_tts: 精英青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383365160,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_精英青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_精英青年.spkv1.json"
+    },
+    {
+      "id": "aac1d7887a3542ca8d1a604930fff65e",
+      "name": "volc_妹坨洁儿",
+      "desc": "volcano_tts: 妹坨洁儿",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383364946,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/妹坨洁儿.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_妹坨洁儿.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_妹坨洁儿.spkv1.json"
+    },
+    {
+      "id": "61689d25f7fc47ed844b541d74c308e7",
+      "name": "volc_温柔文雅",
+      "desc": "volcano_tts: 温柔文雅",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383364753,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/温柔文雅.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温柔文雅.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔文雅.spkv1.json"
+    },
+    {
+      "id": "9a8d98b8d6f3482c80e698e3d181fb22",
+      "name": "volc_知性温婉",
+      "desc": "volcano_tts: 知性温婉",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383364559,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/知性温婉.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_知性温婉.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_知性温婉.spkv1.json"
+    },
+    {
+      "id": "d2c25b4776c74760941ccb793df37311",
+      "name": "volc_冷漠兄长",
+      "desc": "volcano_tts: 冷漠兄长",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383364376,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷漠兄长.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷漠兄长.spkv1.json"
+    },
+    {
+      "id": "3f85a5593cac458888a9bc8a95c5daca",
+      "name": "volc_ひかる（光）",
+      "desc": "volcano_tts: ひかる（光）",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383364195,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_ひかる（光）.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_ひかる（光）.spkv1.json"
+    },
+    {
+      "id": "b773838cf1fb4c9380743ca287059edd",
+      "name": "volc_樱桃丸子",
+      "desc": "volcano_tts: 樱桃丸子",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383363998,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/樱桃丸子.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_樱桃丸子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_樱桃丸子.spkv1.json"
+    },
+    {
+      "id": "6b091e431497409a8474ebe74b4b0c25",
+      "name": "volc_心灵鸡汤",
+      "desc": "volcano_tts: 心灵鸡汤",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383363795,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/心灵鸡汤.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "中年"
+      ],
+      "filename": "volcengine/volc_心灵鸡汤.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_心灵鸡汤.spkv1.json"
+    },
+    {
+      "id": "c524708f7eee4abd97f7a2c2f09cc5e1",
+      "name": "volc_冷淡疏离",
+      "desc": "volcano_tts: 冷淡疏离",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383363614,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/冷淡疏离.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷淡疏离.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷淡疏离.spkv1.json"
+    },
+    {
+      "id": "089f519972704f2e8be509710c4de650",
+      "name": "volc_和蔼奶奶",
+      "desc": "volcano_tts: 和蔼奶奶",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383363393,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/和蔼奶奶.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "老年"
+      ],
+      "filename": "volcengine/volc_和蔼奶奶.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_和蔼奶奶.spkv1.json"
+    },
+    {
+      "id": "57d32605cde64df893ea486e333ba8ea",
+      "name": "volc_湾区大叔",
+      "desc": "volcano_tts: 湾区大叔",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383363179,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/湾区大叔.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "中年"
+      ],
+      "filename": "volcengine/volc_湾区大叔.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_湾区大叔.spkv1.json"
+    },
+    {
+      "id": "4c0bf32e668b49ad92347737be39b08f",
+      "name": "volc_William",
+      "desc": "volcano_tts: William",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383362981,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/四郎.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_William.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_William.spkv1.json"
+    },
+    {
+      "id": "6ab0f64a61b94462b91bcd328b8d4a8e",
+      "name": "volc_古风少御",
+      "desc": "volcano_tts: 古风少御",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383362759,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/古风少御.png",
+      "tags": [
+        "volcengine",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_古风少御.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_古风少御.spkv1.json"
+    },
+    {
+      "id": "8f8e890f223b48039670f2ecd476b8b8",
+      "name": "volc_Alastor",
+      "desc": "volcano_tts: Alastor",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383362573,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Alastor.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Alastor.spkv1.json"
+    },
+    {
+      "id": "af5ddf3c4a594bacbe9d738cae652ced",
+      "name": "volc_Diana",
+      "desc": "volcano_tts: Diana",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383362359,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Diana.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Diana.spkv1.json"
+    },
+    {
+      "id": "a966566b19fa46f68558c3ed86df29da",
+      "name": "volc_Sophie",
+      "desc": "volcano_tts: Sophie",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383362168,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Sophie.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Sophie.spkv1.json"
+    },
+    {
+      "id": "6da65724345e4f39bf75d2c9d2383fb1",
+      "name": "volc_Sarah",
+      "desc": "volcano_tts: Sarah",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383361963,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Sarah.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Sarah.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Sarah.spkv1.json"
+    },
+    {
+      "id": "a816a082c9d049ab8a159be913ae7530",
+      "name": "volc_甜系男友",
+      "desc": "volcano_tts: 甜系男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383361775,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_甜系男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_甜系男友.spkv1.json"
+    },
+    {
+      "id": "bdae7117b90e4164a80d44f0bde0ce80",
+      "name": "volc_Ryan",
+      "desc": "volcano_tts: Ryan",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383361599,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/広志.png",
+      "tags": [
+        "volcengine",
+        "Japanese",
+        "Spanish",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Ryan.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Ryan.spkv1.json"
+    },
+    {
+      "id": "4354bc5504db4fd5a291517daa16cef2",
+      "name": "volc_青涩小生",
+      "desc": "volcano_tts: 青涩小生",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383361415,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/青涩小生.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_青涩小生.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_青涩小生.spkv1.json"
+    },
+    {
+      "id": "e0a36468f9694728889f0f7a376b0a22",
+      "name": "volc_Clown Man",
+      "desc": "volcano_tts: Clown Man",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383361221,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "老年"
+      ],
+      "filename": "volcengine/volc_Clown Man.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Clown Man.spkv1.json"
+    },
+    {
+      "id": "80461bd5abc24012bf6182d90cd9ab9b",
+      "name": "volc_Edward",
+      "desc": "volcano_tts: Edward",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383361009,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/霸气青叔.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Middle Age"
+      ],
+      "filename": "volcengine/volc_Edward.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Edward.spkv1.json"
+    },
+    {
+      "id": "ef85460ebf2e47a5af5b137c3a1fa246",
+      "name": "volc_The Grinch",
+      "desc": "volcano_tts: The Grinch",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383360824,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_The Grinch.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_The Grinch.spkv1.json"
+    },
+    {
+      "id": "c58abd9cf77b4decb2c1d38fedfe0e03",
+      "name": "volc_傲娇精英",
+      "desc": "volcano_tts: 傲娇精英",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383360624,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲娇精英.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲娇精英.spkv1.json"
+    },
+    {
+      "id": "25b2164ba386476b8919ad92582cf79b",
+      "name": "volc_擎苍",
+      "desc": "volcano_tts: 擎苍",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383360399,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/擎苍.png",
+      "tags": [
+        "volcengine",
+        "有声阅读",
+        "中年"
+      ],
+      "filename": "volcengine/volc_擎苍.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_擎苍.spkv1.json"
+    },
+    {
+      "id": "5eb67c9396274e23b3773a5546a58fa3",
+      "name": "volc_亲切青年",
+      "desc": "volcano_tts: 亲切青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383360189,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_亲切青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_亲切青年.spkv1.json"
+    },
+    {
+      "id": "955247970336456e9ebbf383a9895674",
+      "name": "volc_性感御姐",
+      "desc": "volcano_tts: 性感御姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383359998,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/性感御姐.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_性感御姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_性感御姐.spkv1.json"
+    },
+    {
+      "id": "79774ef2d141403b8fa0221d0a06e32d",
+      "name": "volc_Jigsaw",
+      "desc": "volcano_tts: Jigsaw",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383359804,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "角色扮演",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Jigsaw.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Jigsaw.spkv1.json"
+    },
+    {
+      "id": "a4300e4ffba24ba29c598d20d1ff8092",
+      "name": "volc_枕边低语",
+      "desc": "volcano_tts: 枕边低语",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383359596,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_枕边低语.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_枕边低语.spkv1.json"
+    },
+    {
+      "id": "50a84fa19a1c42e7adfd37d123a5d447",
+      "name": "volc_熊二",
+      "desc": "volcano_tts: 熊二",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383359399,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/熊二.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_熊二.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_熊二.spkv1.json"
+    },
+    {
+      "id": "d9bb9aa5036d4003ab81ac88121ad2ee",
+      "name": "volc_Javier or Álvaro",
+      "desc": "volcano_tts: Javier or Álvaro",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383359214,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Javier.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Javier or Álvaro.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Javier or Álvaro.spkv1.json"
+    },
+    {
+      "id": "cf856f09cf8943d8b29b673184af2541",
+      "name": "volc_中二青年",
+      "desc": "volcano_tts: 中二青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383359030,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_中二青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_中二青年.spkv1.json"
+    },
+    {
+      "id": "a87e1d49d5da4eda9f6a050bab3d3bae",
+      "name": "volc_冷酷哥哥",
+      "desc": "volcano_tts: 冷酷哥哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383358855,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷酷哥哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷酷哥哥.spkv1.json"
+    },
+    {
+      "id": "cf0fd45936b847b492a5cbd0af3b9f41",
+      "name": "volc_风发少年",
+      "desc": "volcano_tts: 风发少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383358640,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_风发少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_风发少年.spkv1.json"
+    },
+    {
+      "id": "2f1ac601b85b44ce8ebb29c7d0ba0eaa",
+      "name": "volc_暖阳女声",
+      "desc": "volcano_tts: 暖阳女声",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383358443,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/暖阳女声.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "客服场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_暖阳女声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_暖阳女声.spkv1.json"
+    },
+    {
+      "id": "4ecc7a06d07146f3ae389725a834b901",
+      "name": "volc_俊逸公子",
+      "desc": "volcano_tts: 俊逸公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383358242,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_俊逸公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_俊逸公子.spkv1.json"
+    },
+    {
+      "id": "b75a0d2cac2746b1a65b427ae7ea5592",
+      "name": "volc_性感魅惑",
+      "desc": "volcano_tts: 性感魅惑",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383358042,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_性感魅惑.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_性感魅惑.spkv1.json"
+    },
+    {
+      "id": "05b62cb705ab4be690ad9605dc460476",
+      "name": "volc_傲慢娇声",
+      "desc": "volcano_tts: 傲慢娇声",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383357814,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/傲慢娇声.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_傲慢娇声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲慢娇声.spkv1.json"
+    },
+    {
+      "id": "1e4b8358882d457da26dee3e1a0a7d55",
+      "name": "volc_纯真学弟",
+      "desc": "volcano_tts: 纯真学弟",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383357635,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/纯真学弟.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_纯真学弟.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_纯真学弟.spkv1.json"
+    },
+    {
+      "id": "7aea2e597d204b41b7db61ebc9c101b6",
+      "name": "volc_暖心学姐",
+      "desc": "volcano_tts: 暖心学姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383357446,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/暖心学姐.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_暖心学姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_暖心学姐.spkv1.json"
+    },
+    {
+      "id": "32c42694750e4a0fa0038a94a90eabd7",
+      "name": "volc_广西远舟",
+      "desc": "volcano_tts: 广西远舟",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383357228,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/广西远舟.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_广西远舟.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_广西远舟.spkv1.json"
+    },
+    {
+      "id": "31a2b4acfb0f45e6a8ff51dc759505f3",
+      "name": "volc_假小子",
+      "desc": "volcano_tts: 假小子",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383357061,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/假小子.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_假小子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_假小子.spkv1.json"
+    },
+    {
+      "id": "50b14fc480cd4d60b9a580eb3620a5e9",
+      "name": "volc_病弱少女",
+      "desc": "volcano_tts: 病弱少女",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383356855,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/病弱少女.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_病弱少女.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病弱少女.spkv1.json"
+    },
+    {
+      "id": "456a97415dc64f1d91f2143cb21faaaa",
+      "name": "volc_学霸同桌",
+      "desc": "volcano_tts: 学霸同桌",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383356642,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_学霸同桌.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_学霸同桌.spkv1.json"
+    },
+    {
+      "id": "301843ab05df4ddab42f7054ace30dfd",
+      "name": "volc_甜美悦悦",
+      "desc": "volcano_tts: 甜美悦悦",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383356419,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/甜美悦悦.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_甜美悦悦.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_甜美悦悦.spkv1.json"
+    },
+    {
+      "id": "06ba1738c0ee4ec89aeb2651b8aa1edc",
+      "name": "volc_奶气萌娃",
+      "desc": "volcano_tts: 奶气萌娃",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383356214,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/奶气萌娃.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_奶气萌娃.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_奶气萌娃.spkv1.json"
+    },
+    {
+      "id": "73d1d859633f4c8db5d0293929950615",
+      "name": "volc_少年梓辛",
+      "desc": "volcano_tts: 少年梓辛",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383355997,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/少年梓辛.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_少年梓辛.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_少年梓辛.spkv1.json"
+    },
+    {
+      "id": "196550d306bc4fdab481ab3819821d2c",
+      "name": "volc_温柔男同桌",
+      "desc": "volcano_tts: 温柔男同桌",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383355818,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/温柔男同桌.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_温柔男同桌.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔男同桌.spkv1.json"
+    },
+    {
+      "id": "3965679ae3234fb2a70adb13abb1c2e4",
+      "name": "volc_贴心闺蜜",
+      "desc": "volcano_tts: 贴心闺蜜",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383355636,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_贴心闺蜜.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_贴心闺蜜.spkv1.json"
+    },
+    {
+      "id": "317b7806bece46d68dff41ae10d5cb58",
+      "name": "volc_渊博小叔",
+      "desc": "volcano_tts: 渊博小叔",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383355411,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/渊博小叔.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "中年"
+      ],
+      "filename": "volcengine/volc_渊博小叔.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_渊博小叔.spkv1.json"
+    },
+    {
+      "id": "de5a8ef8406a4ef3b3f207fd0b46ea56",
+      "name": "volc_翩翩公子",
+      "desc": "volcano_tts: 翩翩公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383355217,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_翩翩公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_翩翩公子.spkv1.json"
+    },
+    {
+      "id": "fa784be77d7b47939e6ccce3505f89a6",
+      "name": "volc_魅力苏菲",
+      "desc": "volcano_tts: 魅力苏菲",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383355028,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_魅力苏菲.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_魅力苏菲.spkv1.json"
+    },
+    {
+      "id": "89a59f4c10ce4edcbf394e1b2c2c8693",
+      "name": "volc_可爱女生",
+      "desc": "volcano_tts: 可爱女生",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383354848,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/可爱女生.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_可爱女生.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_可爱女生.spkv1.json"
+    },
+    {
+      "id": "2cdae31a677345e096128bc9fb2bb898",
+      "name": "volc_柔美女友",
+      "desc": "volcano_tts: 柔美女友",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383354639,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/柔美女友.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_柔美女友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_柔美女友.spkv1.json"
+    },
+    {
+      "id": "5daf723877944eac8bd7c5f68f60465a",
+      "name": "volc_甜美小源",
+      "desc": "volcano_tts: 甜美小源",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383354273,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/甜美小源.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_甜美小源.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_甜美小源.spkv1.json"
+    },
+    {
+      "id": "8bf0db40f72440c2ad4f26b7abf05a59",
+      "name": "volc_温润学者",
+      "desc": "volcano_tts: 温润学者",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383354032,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温润学者.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温润学者.spkv1.json"
+    },
+    {
+      "id": "e12b98388246490982d468fe44b23b4c",
+      "name": "volc_自负青年",
+      "desc": "volcano_tts: 自负青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383353838,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_自负青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_自负青年.spkv1.json"
+    },
+    {
+      "id": "28c6ae4048a641be8374dfd5262b4c95",
+      "name": "volc_深夜播客",
+      "desc": "volcano_tts: 深夜播客",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383353604,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/深夜播客.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_深夜播客.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_深夜播客.spkv1.json"
+    },
+    {
+      "id": "c51c80d0c07a49ab9d9934897ab41091",
+      "name": "volc_病弱公子",
+      "desc": "volcano_tts: 病弱公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383353419,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病弱公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病弱公子.spkv1.json"
+    },
+    {
+      "id": "09d1f2d508ed49d3a3856968d475bec0",
+      "name": "volc_Cutey",
+      "desc": "volcano_tts: Cutey",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383353225,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Cutey.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_Cutey.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Cutey.spkv1.json"
+    },
+    {
+      "id": "0b6868b0fe094b9db8f65833d661c153",
+      "name": "volc_倾心少女",
+      "desc": "volcano_tts: 倾心少女",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383353048,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_倾心少女.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_倾心少女.spkv1.json"
+    },
+    {
+      "id": "a9a545f462ca43a1b18f4294b697d5a0",
+      "name": "volc_Roberto",
+      "desc": "volcano_tts: Roberto",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383352863,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Roberto.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "中年"
+      ],
+      "filename": "volcengine/volc_Roberto.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Roberto.spkv1.json"
+    },
+    {
+      "id": "c22658fa3dc34794b50f67021181078d",
+      "name": "volc_傲娇女友",
+      "desc": "volcano_tts: 傲娇女友",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383352526,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/傲娇女友.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲娇女友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲娇女友.spkv1.json"
+    },
+    {
+      "id": "a3d174669d5b4cea9962c7f72172382b",
+      "name": "volc_まさお（正男）",
+      "desc": "volcano_tts: まさお（正男）",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383352333,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_まさお（正男）.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_まさお（正男）.spkv1.json"
+    },
+    {
+      "id": "39750e75d2134e24b92076818902d852",
+      "name": "volc_傲慢少爷",
+      "desc": "volcano_tts: 傲慢少爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383352153,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/傲慢少爷.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲慢少爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲慢少爷.spkv1.json"
+    },
+    {
+      "id": "33566612a70f4419be5abee1a2c7bd2d",
+      "name": "volc_知性女声",
+      "desc": "volcano_tts: 知性女声",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383351955,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/知性女声.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_知性女声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_知性女声.spkv1.json"
+    },
+    {
+      "id": "a38553f587d3435f82029016d81a0360",
+      "name": "volc_Emma",
+      "desc": "volcano_tts: Emma",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383351735,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/温柔淑女.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Emma.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Emma.spkv1.json"
+    },
+    {
+      "id": "e5bc79590a0748cbbf23b5e1f2b983a3",
+      "name": "volc_开朗轻快",
+      "desc": "volcano_tts: 开朗轻快",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383351551,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/开朗轻快.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_开朗轻快.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_开朗轻快.spkv1.json"
+    },
+    {
+      "id": "ea2ec7a6c58149659b7e9793b006b412",
+      "name": "volc_温暖阿虎",
+      "desc": "volcano_tts: 温暖阿虎",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383351369,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/温暖阿虎.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温暖阿虎.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温暖阿虎.spkv1.json"
+    },
+    {
+      "id": "16ab7d17b6c24a3ea51c72c7262d8d4b",
+      "name": "volc_Olivia",
+      "desc": "volcano_tts: Olivia",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383351167,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/清新女声.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Olivia.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Olivia.spkv1.json"
+    },
+    {
+      "id": "f121f518797c444b9081042f6aac1760",
+      "name": "volc_东方浩然",
+      "desc": "volcano_tts: 东方浩然",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383350941,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/东方浩然.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "中年"
+      ],
+      "filename": "volcengine/volc_东方浩然.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_东方浩然.spkv1.json"
+    },
+    {
+      "id": "e0f81974cdbd4f2299ba3d42e3e93024",
+      "name": "volc_灿灿",
+      "desc": "volcano_tts: 灿灿",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383350760,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/灿灿.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_灿灿.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_灿灿.spkv1.json"
+    },
+    {
+      "id": "7f233821f9d5408dbcdfd1d958334985",
+      "name": "volc_冷傲总裁",
+      "desc": "volcano_tts: 冷傲总裁",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383350545,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_冷傲总裁.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_冷傲总裁.spkv1.json"
+    },
+    {
+      "id": "3de0b9efa6ec44f9bf7d8de887103a74",
+      "name": "volc_诡异神秘",
+      "desc": "volcano_tts: 诡异神秘",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383350355,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/诡异神秘.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_诡异神秘.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_诡异神秘.spkv1.json"
+    },
+    {
+      "id": "9555eec5f7cb48f8b0f9a9fd4293a5c9",
+      "name": "volc_热血少年",
+      "desc": "volcano_tts: 热血少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383350165,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_热血少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_热血少年.spkv1.json"
+    },
+    {
+      "id": "91da26626d584f28b52f3c75b1f391c4",
+      "name": "volc_干净少年",
+      "desc": "volcano_tts: 干净少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383349939,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_干净少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_干净少年.spkv1.json"
+    },
+    {
+      "id": "d95e9421b8e5485cae622ccc27570076",
+      "name": "volc_醇厚低音",
+      "desc": "volcano_tts: 醇厚低音",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383349735,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "视频配音",
+        "有声阅读",
+        "青年"
+      ],
+      "filename": "volcengine/volc_醇厚低音.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_醇厚低音.spkv1.json"
+    },
+    {
+      "id": "77724d565dc74f7bb9e64d3e0e424a27",
+      "name": "volc_孤高公子",
+      "desc": "volcano_tts: 孤高公子",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383349527,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_孤高公子.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_孤高公子.spkv1.json"
+    },
+    {
+      "id": "a3ba0eaf6de0446eb3b712d99ea54278",
+      "name": "volc_Kevin McCallister",
+      "desc": "volcano_tts: Kevin McCallister",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383349328,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "儿童"
+      ],
+      "filename": "volcengine/volc_Kevin McCallister.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Kevin McCallister.spkv1.json"
+    },
+    {
+      "id": "0975228c81a24b6dba9f35b91e41d301",
+      "name": "volc_温柔白月光",
+      "desc": "volcano_tts: 温柔白月光",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383349143,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温柔白月光.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔白月光.spkv1.json"
+    },
+    {
+      "id": "975b893abfee4d2ba8251affd15571a5",
+      "name": "volc_解说小明",
+      "desc": "volcano_tts: 解说小明",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383348947,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/解说小明.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_解说小明.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_解说小明.spkv1.json"
+    },
+    {
+      "id": "f060199a98954365bbc83af99fee8b35",
+      "name": "volc_醋精男友",
+      "desc": "volcano_tts: 醋精男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383348761,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_醋精男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_醋精男友.spkv1.json"
+    },
+    {
+      "id": "408a644a88024d67ae5e20d090717d7f",
+      "name": "volc_邪魅女王",
+      "desc": "volcano_tts: 邪魅女王",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383348564,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_邪魅女王.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_邪魅女王.spkv1.json"
+    },
+    {
+      "id": "4041e4ad37f84c16891145f555ff2064",
+      "name": "volc_Lily",
+      "desc": "volcano_tts: Lily",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383348375,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Lily.png",
+      "tags": [
+        "volcengine",
+        "English",
+        "Chinese",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Lily.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Lily.spkv1.json"
+    },
+    {
+      "id": "722798b69ac14d219d63d2aae21d20ea",
+      "name": "volc_傲娇霸总",
+      "desc": "volcano_tts: 傲娇霸总",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383348159,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/傲娇霸总.png",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "角色扮演",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_傲娇霸总.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_傲娇霸总.spkv1.json"
+    },
+    {
+      "id": "0b62f4e3b4e2483488158f2671d3a4d1",
+      "name": "volc_开朗学长",
+      "desc": "volcano_tts: 开朗学长",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383347972,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_开朗学长.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_开朗学长.spkv1.json"
+    },
+    {
+      "id": "746bf1ef62a74755ad72c14a1050d339",
+      "name": "volc_高冷总裁",
+      "desc": "volcano_tts: 高冷总裁",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383347772,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_高冷总裁.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_高冷总裁.spkv1.json"
+    },
+    {
+      "id": "bd73903587a248948719485abd4d109d",
+      "name": "volc_邻家男孩",
+      "desc": "volcano_tts: 邻家男孩",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383347555,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/邻家男孩.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_邻家男孩.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_邻家男孩.spkv1.json"
+    },
+    {
+      "id": "3d0f0090f8d44f95bb509bf76215d912",
+      "name": "volc_鸡汤妹妹",
+      "desc": "volcano_tts: 鸡汤妹妹",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383347349,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/鸡汤妹妹.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "中年"
+      ],
+      "filename": "volcengine/volc_鸡汤妹妹.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_鸡汤妹妹.spkv1.json"
+    },
+    {
+      "id": "c4abb157f5f94d66bb1a7d4a509dd3c8",
+      "name": "volc_Noah",
+      "desc": "volcano_tts: Noah",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383347167,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "视频配音",
+        "中年"
+      ],
+      "filename": "volcengine/volc_Noah.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Noah.spkv1.json"
+    },
+    {
+      "id": "00c0c417550e42e6a721aafa349579a6",
+      "name": "volc_洒脱青年",
+      "desc": "volcano_tts: 洒脱青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383346952,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_洒脱青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_洒脱青年.spkv1.json"
+    },
+    {
+      "id": "8ac62a61f7284ee58151cbacd8f9cf5e",
+      "name": "volc_妩媚可人",
+      "desc": "volcano_tts: 妩媚可人",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383346763,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_妩媚可人.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_妩媚可人.spkv1.json"
+    },
+    {
+      "id": "584115cb192b4322a3b159be63145712",
+      "name": "volc_贴心女声",
+      "desc": "volcano_tts: 贴心女声",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383346561,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/贴心女声.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_贴心女声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_贴心女声.spkv1.json"
+    },
+    {
+      "id": "a2f550b9bf564f5ba5e24ebb8a29f307",
+      "name": "volc_撒娇粘人",
+      "desc": "volcano_tts: 撒娇粘人",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383346371,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/撒娇粘人.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_撒娇粘人.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_撒娇粘人.spkv1.json"
+    },
+    {
+      "id": "f152e268578847da9e0e2d306e93df47",
+      "name": "volc_温柔小雅",
+      "desc": "volcano_tts: 温柔小雅",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383346168,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/温柔小雅.png",
+      "tags": [
+        "volcengine",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温柔小雅.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔小雅.spkv1.json"
+    },
+    {
+      "id": "b04b0baa8d57445f821e8e2b736c9578",
+      "name": "volc_温柔小哥",
+      "desc": "volcano_tts: 温柔小哥",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383345982,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/温柔小哥.png",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温柔小哥.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔小哥.spkv1.json"
+    },
+    {
+      "id": "f0d459741a77438aa130d67d56c655e1",
+      "name": "volc_直率青年",
+      "desc": "volcano_tts: 直率青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383345774,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_直率青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_直率青年.spkv1.json"
+    },
+    {
+      "id": "e6085b586e514ca69caf7fd4fee6ff97",
+      "name": "volc_邪魅御姐",
+      "desc": "volcano_tts: 邪魅御姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383345590,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_邪魅御姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_邪魅御姐.spkv1.json"
+    },
+    {
+      "id": "6fe6752354894e108f1d9a689f60c527",
+      "name": "volc_活泼刁蛮",
+      "desc": "volcano_tts: 活泼刁蛮",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383345408,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/活泼刁蛮.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "少年/少女"
+      ],
+      "filename": "volcengine/volc_活泼刁蛮.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_活泼刁蛮.spkv1.json"
+    },
+    {
+      "id": "bd36602bb6e4428b896968d9a5b47e17",
+      "name": "volc_亲切女声",
+      "desc": "volcano_tts: 亲切女声",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383345225,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "青年"
+      ],
+      "filename": "volcengine/volc_亲切女声.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_亲切女声.spkv1.json"
+    },
+    {
+      "id": "4a4f0e267a9240d78ae7a96cf2f1a57a",
+      "name": "volc_自信青年",
+      "desc": "volcano_tts: 自信青年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383345001,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_自信青年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_自信青年.spkv1.json"
+    },
+    {
+      "id": "bda3c260d2ba47a0ada34cebba7e7756",
+      "name": "volc_Alvin",
+      "desc": "volcano_tts: Alvin",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383344814,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/Alvin.png",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Alvin.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Alvin.spkv1.json"
+    },
+    {
+      "id": "0663f9ec51704a0a88e4650f9261ad1d",
+      "name": "volc_温柔学长",
+      "desc": "volcano_tts: 温柔学长",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383344614,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_温柔学长.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_温柔学长.spkv1.json"
+    },
+    {
+      "id": "4c6d28a5b6e64d5a9230122b7cfcc5b5",
+      "name": "volc_文静毛毛",
+      "desc": "volcano_tts: 文静毛毛",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383344421,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "通用场景",
+        "视频配音",
+        "青年"
+      ],
+      "filename": "volcengine/volc_文静毛毛.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_文静毛毛.spkv1.json"
+    },
+    {
+      "id": "cb3e06ebddb94f14a68b78a739b2b439",
+      "name": "volc_成熟姐姐",
+      "desc": "volcano_tts: 成熟姐姐",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383344235,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/成熟姐姐.png",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_成熟姐姐.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_成熟姐姐.spkv1.json"
+    },
+    {
+      "id": "388fefa15bcc4c50bfe09ac8756c7452",
+      "name": "volc_病弱少年",
+      "desc": "volcano_tts: 病弱少年",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383344030,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_病弱少年.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_病弱少年.spkv1.json"
+    },
+    {
+      "id": "98f65a8cd9314e0f89ad338cac7ee1aa",
+      "name": "volc_北京小爷",
+      "desc": "volcano_tts: 北京小爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383343817,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/北京小爷.png",
+      "tags": [
+        "volcengine",
+        "趣味口音",
+        "多情感",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_北京小爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_北京小爷.spkv1.json"
+    },
+    {
+      "id": "dcc847a436a24f7aa14a5c808f993eea",
+      "name": "volc_儒雅男友",
+      "desc": "volcano_tts: 儒雅男友",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383343634,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多情感",
+        "通用场景",
+        "多情感",
+        "青年"
+      ],
+      "filename": "volcengine/volc_儒雅男友.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_儒雅男友.spkv1.json"
+    },
+    {
+      "id": "ddc1033f739f4b498757ab08f8be12ee",
+      "name": "volc_Michael",
+      "desc": "volcano_tts: Michael",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383343450,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "多语种",
+        "青年"
+      ],
+      "filename": "volcengine/volc_Michael.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Michael.spkv1.json"
+    },
+    {
+      "id": "b2eee0277d3e4a9d8773b157de5f3d8a",
+      "name": "volc_孱弱少爷",
+      "desc": "volcano_tts: 孱弱少爷",
+      "gender": "male",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383343249,
+      "avatar": "",
+      "tags": [
+        "volcengine",
+        "角色扮演",
+        "青年"
+      ],
+      "filename": "volcengine/volc_孱弱少爷.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_孱弱少爷.spkv1.json"
+    },
+    {
+      "id": "ed5b59f160de4dc5a5a89139c81ec46c",
+      "name": "volc_Peggy",
+      "desc": "volcano_tts: Peggy",
+      "gender": "female",
+      "author": "volcengine",
+      "version": "v1",
+      "created_date": 1751383343073,
+      "avatar": "https://lf3-static.bytednsdoc.com/obj/eden-cn/lm_hz_ihsph/ljhwZthlaukjlkulzlp/portal/bigtts/avatar/晴子.png",
+      "tags": [
+        "volcengine",
+        "Japanese",
+        "Spanish",
+        "Teenager"
+      ],
+      "filename": "volcengine/volc_Peggy.spkv1.json",
+      "url": "https://github.com/lenML/Speech-AI-Forge-spks/raw/refs/heads/main/spks/volcengine/volc_Peggy.spkv1.json"
+    },
+    {
       "id": "0eb054777a214bfbaf745ad254612b0b",
       "name": "fs_丁真",
       "desc": "来自FishSpeech社区",
@@ -292,7 +4839,7 @@
       "id": "00d6ff681e3a428c89f08e3fe18035fa",
       "name": "fs_老师",
       "desc": "来自FishSpeech社区",
-      "gender": "",
+      "gender": "female",
       "author": "FishSpeech-Community",
       "version": "v1",
       "created_date": 1751368873240,
